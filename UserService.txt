@@ -1,2 +1,4 @@
 Get user data
-ADD the values.
+process the data.
+
+Create Avatar for user.
